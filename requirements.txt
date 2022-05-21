@@ -1,0 +1,5 @@
+sanic
+sanic-cors
+numpy
+pandas
+scikit-learn

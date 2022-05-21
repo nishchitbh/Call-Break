@@ -1,0 +1,12 @@
+/Reinforcement Learning/
+/Tictactoe/
+callbreak5.tar.gz
+data1
+stateToApiPraser.js
+trainer.py
+Strategy.py
+Player.py
+.Dockerignore
+/environment/
+/.idea/
+/__pycache__/
