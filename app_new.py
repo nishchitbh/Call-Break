@@ -1,11 +1,8 @@
-import os
-
 from sanic import Sanic
 from sanic.response import json
 from sanic.request import Request
 from sanic_cors import CORS
 from Logic import *
-import Cards
 
 # to enable debug, run app with `DEBUG=1 python src/app.py`
 DEBUG = True
