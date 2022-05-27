@@ -27,6 +27,8 @@ def bid_calculator(cards):
     bid_final = int(bid(cards))
     if bid_final < 1:
         bid_final = 1
+    if bid_final > 8:
+        bid_final = 8
     return bid_final
 
 
